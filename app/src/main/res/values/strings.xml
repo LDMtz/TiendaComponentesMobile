@@ -1,0 +1,79 @@
+<resources>
+
+    <string name="app_name">TiendaComponentesMobile</string>
+
+    <string name="hint_names">Nombres</string>
+    <string name="hint_last_names">Apellidos</string>
+    <string name="hint_email">Correo electronico</string>
+    <string name="hint_username">Nombre de usuario</string>
+    <string name="hint_phone_number">Número de teléfono</string>
+    <string name="hint_password">Contraseña</string>
+
+    <string name="btn_register">Registrarse</string>
+    <string name="btn_login">Iniciar Sesión</string>
+
+    <string name="login_link">¿Ya tienes cuenta? Inicia Sesión</string>
+    <string name="register_link">¿No tienes cuenta? Registrate</string>
+
+    <string name="title_register">Registrate</string>
+    <string name="title_login">Inicia Sesión</string>
+    <string name="title_profile">Datos del Cliente</string>
+
+    <string name="logo_description">logo_web</string>
+    <string name="imagen_web">Imagen web del sitio</string>
+
+    <string name="menu_icon">Icono del menu hamburguesa\n</string>
+    <string name="menu_home_option">Inicio</string>
+    <string name="menu_profile_option">Perfil</string>
+    <string name="menu_cart_option">Carrito de Compras</string>
+    <string name="menu_purchases_option">Compras</string>
+    <string name="menu_purchase_details_option">Detalle de compra</string>
+    <string name="menu_settings_option">Ajustes</string>
+
+    <string name="product_available">✓ CON EXISTENCIA</string>
+    <string name="product_not_available">X SIN EXISTENCIA</string>
+    <string name="product_price">$%.2f MXN</string>
+
+
+    <string name="sale_order_number">Folio:</string>
+    <string name="sale_total_amount">Monto total:</string>
+    <string name="sale_date">Fecha:</string>
+    <string name="sale_products_quantity">Productos:</string>
+
+    <string name="sale_details_product_name">Nombre del producto</string>
+    <string name="sale_details_subtotal">Subtotal</string>
+    <string name="sale_details_products_quantity">Cantidad</string>
+
+    <string name="descripcion_icono1">Tag Exclusive</string>
+    <string name="descripcion_icono2">Tag Descount</string>
+    <string name="descripcion_icono3">Tag New</string>
+    <string name="descripcion_icono4">Tag Delivery</string>
+    <string name="profile_image">imagen_perfil</string>
+    <string name="count_id_profile">ID de Cuenta</string>
+    <string name="creation_date_profile">Fecha de creación</string>
+    <string name="welcome_profile">Bienvenido a tu perfil</string>
+
+    <string-array name="payment_methods">
+        <item>Tarjeta de Crédito</item>
+        <item>PayPal</item>
+        <item>Transferencia Bancaria</item>
+        <item>Pago Contra Entrega</item>
+    </string-array>
+
+    <!-- Idiomas -->
+    <string-array name="languages">
+        <item>Español</item>
+        <item>Inglés</item>
+        <item>Francés</item>
+        <item>Alemán</item>
+    </string-array>
+
+    <!-- Monedas -->
+    <string-array name="currencies">
+        <item>MXN - Peso Mexicano</item>
+        <item>USD - Dólar Estadounidense</item>
+        <item>EUR - Euro</item>
+        <item>GBP - Libra Esterlina</item>
+    </string-array>
+
+</resources>
